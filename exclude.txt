@@ -1,0 +1,17 @@
+commit e773260338a6b0c0b23581e1dbb11913d7144dcd
+Author: Justus1971 <justus_kurth@hotmail.com>
+Date:   Sat Oct 12 16:11:20 2019 +0000
+
+    add file .gitignore
+
+commit ba0937f5364a7a101abab60b5fd71c528a849256
+Author: Justus1971 <justus_kurth@hotmail.com>
+Date:   Sat Oct 12 13:07:23 2019 +0000
+
+    added files t{1..9}.txt and change file readme.txt
+
+commit e0aa68d9ee8a1380d24f807c2567cc66cacc9c36
+Author: Justus1971 <justus_kurth@hotmail.com>
+Date:   Sat Oct 12 13:03:07 2019 +0000
+
+    add files numrange.sh readme.txt repseq.sh to repository

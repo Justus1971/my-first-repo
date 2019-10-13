@@ -2,6 +2,10 @@
 
 ## This is a smaller heading
 
+### This is an even smaller heading
+
+#### This is the smallest heading
+
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poets pen,
 Turns them to shapes and gives to airy nothing,
@@ -19,10 +23,11 @@ Here is `some code` in the middle of a sentence.
 *different font style*
 
 ```
-This is
-a block
-of code
 ```
+for in *.txt
+do
+    echo "append file $i with text" >> $i
+done
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
